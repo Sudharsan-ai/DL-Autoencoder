@@ -257,4 +257,4 @@ visualize_denoising(model, test_loader)
 ![png](deep-7_10_1.png)
 
 ## RESULT
-Include your result here
+Therefore, To develop a convolutional autoencoder for image denoising application executed successfully.
